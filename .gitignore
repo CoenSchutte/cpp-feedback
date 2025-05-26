@@ -1,0 +1,5 @@
+#ignore build folder
+build/
+imgui.ini
+/.vscode
+.DS_Store

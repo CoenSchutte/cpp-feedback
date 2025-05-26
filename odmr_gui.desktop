@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ODMR GUI
+Comment=Optically Detected Magnetic Resonance GUI
+Exec=odmr_gui
+Icon=odmr_gui
+Terminal=false
+Type=Application
+Categories=Science;Education;
